@@ -1,0 +1,78 @@
+body {
+    background-image: url(../bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.inputIcon {
+	background: white;
+}
+
+.inputText {
+	border-left: none;
+	font-size: 12px;
+    padding: 12px;
+}
+.loginBlock{
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	height: 100vh;
+}
+.loginBlock__logo {
+	text-align: center;
+}
+.loginBlock__logo img {
+	width: 50%;
+}
+
+.loginBlock__logo p {
+	margin: 0;
+}
+.loginBlock__logo h1 {
+	margin: 0;
+}
+
+.loginBlock__login {
+	padding: 40px;
+}
+
+.loginBlock__login .btnCenter{
+	display: flex;
+	justify-content: center;
+}
+.regBottom {
+	text-align: center;
+}
+.regBottom .regBottom__rzxBtn {
+	background: #eb7230;
+	color: white;
+	padding: 10px 50px;
+	margin-top: 20px;
+	font-size: 12px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.regBottom .regBlock {
+	display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+	font-size: 12px;
+
+}
+.regBottom .regBlock .regBlock__btnReg {
+	text-decoration: underline;
+	color: #eb7230;
+	background: none;
+	border: none;
+	-webkit-appearance: initial;
+}
+
+
+
+
+
+
+
+
+
