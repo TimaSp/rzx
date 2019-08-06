@@ -5,4 +5,3 @@
 ## Authors
 
 * Tima Sapekov (https://github.com/TimaSp)
-* RT Sullivan (https://github.com/RTWhySoSerious)
